@@ -1,5 +1,5 @@
 window.onload = (function () {
-  const output = new Uint8Array(30000);
+  // const output = new Uint8Array(30000);
   const type = [
     'Sand Desert',
     'Grassland(flat)',
